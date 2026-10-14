@@ -6,3 +6,7 @@ AGENTS.md
 # personal docs
 docs/road-map.md
 docs/guideline.md
+
+# assets
+assets/*
+!assets/uma-assets.zip
